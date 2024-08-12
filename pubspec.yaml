@@ -4,10 +4,10 @@ version: 2.4.3
 homepage: https://github.com/dooboolab/flutter_calendar_carousel
 
 environment:
-  sdk: ">=2.14.0 < 4.0.0"
+  sdk: ">=2.14.0 <4.0.0"
 
 dependencies:
-  intl: ^0.18.1
+  intl: ^0.19.0
   flutter:
     sdk: flutter
 
